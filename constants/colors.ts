@@ -1,0 +1,32 @@
+export default {
+  primary: "#1877F2",
+  secondary: "#FF6600",
+  tertiary: "#A69C9C",
+  error: "#FF3333",
+  background: {
+    primaryLight: "#FFFFFF",
+    primaryDark: "#000000",
+    secondaryLight: "#F5F2F2",
+  },
+  default: {
+    grayOne: "#D9D9D9",
+    grayTwo: "#D2CACA",
+    grayThree: "#D2C8C8",
+    grayFour: "#888585",
+    grayFive: "#9F9797",
+    graySix: "#E4E1E1",
+    graySeven: "#EEECEC",
+    blackOne: "#000000",
+    whiteOne: "#FFFFFF",
+    whiteTwo: "#F1F1F1",
+    primaryLight: "#E1E9F2",
+    primaryLighter: "#ADC0D9",
+    primaryLighter2: "#1877F294",
+    debit: "#FF0000",
+    credit: "#006400",
+  },
+  gradients: {
+    mastercard: ["#1877F2", "rgba(24, 119, 242, 0.80)"],
+    visa: ["rgba(255, 102, 0, 0.70)", "#F60"],
+  },
+};

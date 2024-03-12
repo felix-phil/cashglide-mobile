@@ -1,0 +1,1 @@
+export const PROFILE_IMAGE_DEFAULT_URI = "https://res.cloudinary.com/devphil/image/upload/v1696416315/cashglide/tlkbgfugy6mvsznwctxm.png"
