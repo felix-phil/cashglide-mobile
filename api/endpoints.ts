@@ -1,6 +1,6 @@
 import Constants from "expo-constants";
 const API_HOST = Constants.expoConfig?.extra?.API_URL;
-
+console.log(API_HOST)
 const getEndpoint = (
   endpoint: string = "",
   service = "authentication",
